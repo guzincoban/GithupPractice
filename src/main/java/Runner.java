@@ -4,7 +4,7 @@ public class Runner {
 
 
         System.out.println("merhaba");
-
+        System.out.println("thats it");
 
     }
 
